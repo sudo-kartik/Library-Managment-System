@@ -1,0 +1,1 @@
+This is a Simple Library Management System in which a user can issue, return, check book online, reissue the book, and reserve the book. along with this we have added a email notification service with this and sending notification service to the borrower in case therir is a pending book, fine or book overdue.
